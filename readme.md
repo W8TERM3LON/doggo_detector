@@ -1,4 +1,4 @@
-# fastaiserver
+# doggo_detector
 Deploy a localhost version of a dog/cat breed classification bot.
 
 Prerequisites
