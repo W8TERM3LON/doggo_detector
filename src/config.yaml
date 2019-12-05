@@ -1,0 +1,15 @@
+title: Doggo/Catto detector
+description: Classify dog and cat breeds using deep learning.
+about:
+
+
+  This is a Images Classifier that identifies dog and cat breeds (80% accuracy) built on top of Pytorch.
+
+
+
+sampleImages:
+  - name: Shiba Inu
+    url: https://media.discordapp.net/attachments/643544959328321553/649053391430877232/5w855g-Zoom_in_on_his_nose-2jvq7kf0d4iy.jpg?width=810&height=537
+  - name: Maltese
+    url: https://media.discordapp.net/attachments/643544959328321553/645734555315077140/image0.jpg?width=810&height=1080
+
